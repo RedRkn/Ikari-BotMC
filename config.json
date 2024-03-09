@@ -1,0 +1,12 @@
+{
+
+    "token": "Token del Bot Discord",
+
+    "ipAddress": "Dominio del servidor",
+    "port": "25565",
+    "playersChannel": "ID del canal",
+    "statusChannel": "ID del canal",
+    "updateInterval": "10s", 
+ 
+    "prefix": "."
+}
